@@ -2,6 +2,8 @@
 
 Este repo es el sistema personal de organización + aprendizaje del usuario. NO es un proyecto profesional. NO es código.
 
+> **Si es tu primera vez en este repo: lee primero `_meta/contexto-chat-inicial.md`** — handoff completo del chat que originó el sistema, incluye estado actual del usuario (foco trika cálculo), causa raíz de errores previos, investigación que sustenta el diseño, y acciones pendientes.
+
 ## Quién es el usuario
 
 - Estudiante CC entre 3ro y 4to año (Perú).
