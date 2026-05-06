@@ -1,0 +1,21 @@
+# Obsidian local state
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+
+# Drafts temporales
+*.draft.md
+*.tmp
+
+# Si en algún momento agregamos git-crypt:
+# journal/raw/* será encriptado con git-crypt (no .gitignore)
